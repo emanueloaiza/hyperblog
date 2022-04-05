@@ -9,7 +9,7 @@ body
 
 #container
 {
-    width: 700px;
+    width: 750px;
     padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
@@ -18,5 +18,5 @@ body
 
 #container h1
 {
-     font-size: 22px;
+     font-size: 20px;
 }
